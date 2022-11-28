@@ -1,0 +1,2 @@
+# BiLSTMCryptoPrediction-Automailer
+Make money
